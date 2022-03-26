@@ -66,6 +66,7 @@ cursor: pointer;
 transition: .5s;
 display: inline-flex;
 background-position: center;
+font-weight: bolder;
 }
 .foto:hover {
 transform:scale(1.1) ;
